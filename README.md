@@ -7,3 +7,6 @@
 ## www.netbian.com Wallpaper.R
 批量下载彼岸桌面-www.netbian.com的壁纸  
 最高清的只能下载1920x1080的壁纸
+
+## API.R
+获取JSON格式API的一种方式。
