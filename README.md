@@ -13,3 +13,6 @@
 
 ## rvest.R
 用rvest做爬虫。
+
+## Rcrawler.R
+用Rcrawler做爬虫。相比rvest有模拟登陆，但是没rvest简便易用。
